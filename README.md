@@ -18,5 +18,5 @@ The spoken L2 corpus represents present-day spoken Chinese (Putonghua) used in m
 
 # How to acknowledge the use of the corpus?
 ### The corpus user is required to acknowledge the spoken Chinese corpus in any publication or presentation arising from the use of the corpus data by citing the following reference:
-* Li, L. (2021). A spoken Chinese corpus: Development, description, and application in L2 studies [Unpublished Doctoral dissertation]. Massey University. https://github.com/blculyn
+* Li, L. (2021). A spoken Chinese corpus: Development, description, and application in L2 studies [Unpublished Doctoral dissertation]. Massey University. https://github.com/spokenchinesecorpus
 
