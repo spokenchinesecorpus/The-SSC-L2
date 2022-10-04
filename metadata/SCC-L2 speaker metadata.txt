@@ -14,3 +14,6 @@ L11 male, age c.24, New Zealand
 L12 male, age c.40, New Zealand
 L13 male, age c.30, New Zealand       
 L14 male, age c.24, Australia
+L15 male, age c.30, New Zealand
+L16 male, age c.24, New Zealand
+L17 female, age c.18, New Zealand
